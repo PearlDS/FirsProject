@@ -12,13 +12,12 @@ public class Oefening5 {
         int Wachtlijst = random.nextInt(20);
         System.out.println("you bought a Playstation!");
 
-        int result = (FirstNumber || SecondNumber);
+        int result = 5;
 
-        for (result*2);
+
 
         {System.out.println("Sike!");}
 
-        if (result 5 || 11);
-        {System.out.println("Don't be greedy.");
+
     }
-}}
+}
